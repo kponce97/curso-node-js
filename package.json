@@ -1,0 +1,31 @@
+{
+	"name": "curso-node",
+	"version": "1.0.0",
+	"description": "El mejor curso de Node",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/kponce97/curso-node-js.git"
+	},
+	"keywords": [
+		"curso",
+		"node",
+		"nodejs",
+		"midudev"
+	],
+	"author": "Kevin Ponce",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/kponce97/curso-node-js/issues"
+	},
+	"homepage": "https://github.com/kponce97/curso-node-js#readme",
+	"dependencies": {
+		"picocolors": "1.1.1"
+	},
+	"devDependencies": {
+		"standard": "17.1.2"
+	}
+}
