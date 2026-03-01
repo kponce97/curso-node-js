@@ -1,0 +1,46 @@
+# Dependencias de Node.js
+/node_modules/
+
+# Archivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de dependencias de desarrollo
+/package-lock.json
+/yarn.lock
+
+# Carpeta de distribución
+/dist/
+
+# Archivos de configuración de IDE (como VSCode, WebStorm, etc.)
+.vscode/
+/.idea/
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno y configuraciones privadas
+.env
+.env.local
+.env.*.local
+/.env
+
+# Archivos de backup
+*.bak
+
+# Carpeta de cache de npm
+.npm/
+
+# Archivos de cobertura (si usas herramientas de prueba como Jest, Mocha, etc.)
+/coverage/
+
+# Archivos temporales
+/tmp/
+
+# Archivos generados por el empaquetado de aplicaciones (si usas herramientas como Webpack)
+build/
+
+# Configuraciones de editor de texto
+*~.nib
